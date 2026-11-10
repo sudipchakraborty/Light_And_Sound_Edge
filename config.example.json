@@ -1,0 +1,7 @@
+{
+  "movie_path": "",
+  "volume": 70,
+  "sample_interval_ms": 750,
+  "analysis_enabled": true,
+  "audio_device_id": ""
+}
